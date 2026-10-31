@@ -1,0 +1,14 @@
+{
+  "id": "re-metro-notes",
+  "nombre": "ReMetroNotes",
+  "creador": "ReMetroSoftware",
+  "version": "1.0.0",
+  "categoria": "Utilities",
+  "fecha_lanzamiento": "2026-10-15",
+  "tamano": "4.5 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "E",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "A minimalist text editor designed specifically for the modern Windows 8.1 interface, inspired by the classic Metro visual style.",
+  "url_descarga": "https://github.com/angelgtz6249/ReMetroNotes/releases/download/Release/ReMetroNotes_1.0.0.0_AnyCPU_Debug.appx"
+}
