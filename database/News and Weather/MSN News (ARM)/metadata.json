@@ -1,0 +1,14 @@
+{
+  "id": "msn-news-arm32",
+  "nombre": "MSN News (ARM)",
+  "creador": "Microsoft Corporation",
+  "version": "3.0.4.213",
+  "categoria": "News and Weather",
+  "fecha_lanzamiento": "2026-10-31",
+  "tamano": "4.3 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "M",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Patched with NewRetiled (Credits to migbruluz)",
+  "url_descarga": "https://dl.retiled.xyz/newRetiled/arm32%20%28RT%208.1%29/MSN%20%282014u%29/News/Microsoft.BingNews_3.0.4.213_arm__8wekyb3d8bbwe.appx"
+}
