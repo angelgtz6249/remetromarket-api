@@ -1,0 +1,14 @@
+{
+  "id": "best-tube-for-10",
+  "nombre": "Best Tube For 10",
+  "creador": "YERSHOV",
+  "version": "2.11.0.6",
+  "categoria": "Video and Entertainment",
+  "fecha_lanzamiento": "2026-10-31",
+  "tamano": "5.0 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Patched with NewRetiled (Credits to migbruluz)",
+  "url_descarga": "https://dl.retiled.xyz/Apptravaganza%21/Best%20Tube%20for%2010%20Patched%20%28WIP%29/YouTube.Windows_2.11.0.6_AnyCPU.appx"
+}
