@@ -1,0 +1,14 @@
+{
+  "id": "msn-money",
+  "nombre": "MSN Money",
+  "creador": "Microsoft Corporation",
+  "version": "3.0.4.212",
+  "categoria": "Finance",
+  "fecha_lanzamiento": "2026-11-01",
+  "tamano": "5.2 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "M",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Patched with NewRetiled (Credits to migbruluz)",
+  "url_descarga": "https://dl.retiled.xyz/newRetiled/x86/MSN/Win8.1%20RTM%20%282014u%29/Money/Microsoft.BingFinance_3.0.4.212_x86__8wekyb3d8bbwe.appx"
+}
