@@ -1,0 +1,14 @@
+{
+  "id": "twitter-arm32",
+  "nombre": "Twitter (ARM)",
+  "creador": "Twitter Inc",
+  "version": "1.1.13.8",
+  "categoria": "Social",
+  "fecha_lanzamiento": "2026-11-06",
+  "tamano": "2.9 MB",
+  "so_requerido": "Windows 8",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "From breaking news and entertainment to sports, politics, and everyday interests, when it happens in the world, it happens on Twitter first.",
+  "url_descarga": "https://dl.retiled.xyz/Apptravaganza%21/Twitter%20clients%20patched%20with%20Chirp%21/Twitter%20for%20Windows%208/ARM/9E2F88E3.Twitter_1.1.13.8_arm__wgeqdkkx372wm.appx"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "metrogram",
+  "nombre": "Metrogram",
+  "creador": "HienoB",
+  "version": "0.0.0.2",
+  "categoria": "Social",
+  "fecha_lanzamiento": "2026-11-06",
+  "tamano": "0.13 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Metrogram - Telegram client for Windows 8.1",
+  "url_descarga": "https://apps.hienob.ir/packages/metrogram-beta-v2-103/Metrogram.appx"
+}

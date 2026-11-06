@@ -1,0 +1,14 @@
+{
+  "id": "bine",
+  "nombre": "Fresh Paint",
+  "creador": "Microsoft Corporation",
+  "version": "1.1.0.1",
+  "categoria": "Social",
+  "fecha_lanzamiento": "2026-11-06",
+  "tamano": "4.3 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Bine is the only full Vine client app for WinRT. Record, share, view and more!",
+  "url_descarga": "https://dl.retiled.xyz/Apptravaganza%21/Bine%20%28Trellis%29/3237Zumicts.Bine_1.1.0.1_neutral__sz0adn66pdebp%281%29.appx"
+}

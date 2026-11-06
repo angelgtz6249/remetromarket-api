@@ -1,0 +1,14 @@
+{
+  "id": "tweetium",
+  "nombre": "Tweetium",
+  "creador": "B-sideSoftware",
+  "version": "3.6.7.365",
+  "categoria": "Social",
+  "fecha_lanzamiento": "2026-11-06",
+  "tamano": "1.4 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Tweetium is the premium Windows Twitter client you've been waiting for. It's slick. It's fast. It's been designed with ample feedback from serious Twitter users, with the goal of helping you get the most out of Twitter on Windows desktops, laptops, tablets, and phones.",
+  "url_descarga": "https://dl.retiled.xyz/Apptravaganza%21/Twitter%20clients%20patched%20with%20Chirp%21/Tweetium/B-sideSoftware.Tweetium_3.6.7.375_x64__eq7kkbyjh4j3c.appx"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tweetro",
+  "nombre": "Tweetro+",
+  "creador": "LazyWorm Apps",
+  "version": "1.4.0.10",
+  "categoria": "Social",
+  "fecha_lanzamiento": "2026-11-06",
+  "tamano": "3.5 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "From the creators of ‘Metrotube’ for Windows Phone, tweetro is an elegant Twitter app that's simple to use yet packs plenty of features",
+  "url_descarga": "https://dl.retiled.xyz/Apptravaganza%21/Twitter%20clients%20patched%20with%20Chirp%21/Tweetro+/8.1/27761LazywormApplications.135450F141EEE_1.4.0.10_neutral__5tydn77rr51qw.appx"
+}
