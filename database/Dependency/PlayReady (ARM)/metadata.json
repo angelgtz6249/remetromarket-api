@@ -1,0 +1,14 @@
+{
+  "id": "playready-2-arm32",
+  "nombre": "PlayReady (ARM)",
+  "creador": "Microsoft Corporation",
+  "version": "2.11.2154.0",
+  "categoria": "Dependency",
+  "fecha_lanzamiento": "2026-11-05",
+  "tamano": "1.1 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "E",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Dependency for movies in Windows 8.1",
+  "url_descarga": "https://appxbox.dankassassin368.com/download/1mOAtyxWTLFtBf7tO3WJCPzVGS3fw7Uqy/Microsoft.Media.PlayReadyClient.2_2.11.2154.0_arm__8wekyb3d8bbwe.Appx"
+}

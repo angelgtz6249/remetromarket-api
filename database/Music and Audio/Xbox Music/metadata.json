@@ -1,0 +1,14 @@
+{
+  "id": "zune-music",
+  "nombre": "Xbox Music",
+  "creador": "Microsoft Corporation",
+  "version": "2.6.672.0",
+  "categoria": "Music and Audio",
+  "fecha_lanzamiento": "2026-11-06",
+  "tamano": "44.29 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Xbox Music brings you all the music you love in one simple app. Play and manage music from your personal collection and browse and buy songs from Xbox Music. Get an Xbox Music Pass for unlimited access to music across all your devices. To see which features are available in your region, go to the Xbox Music feature list at http://support.xbox.com/apps/windows-8/xbox-on-windows-features.",
+  "url_descarga": "https://apps.hienob.ir/dl.php?id=1SvfKEVvHDXtrJcNCxD4BngSYxxAkG1p-&name=music.appxbundle"
+}

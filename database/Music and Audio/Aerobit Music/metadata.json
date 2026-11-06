@@ -1,0 +1,14 @@
+{
+  "id": "aerobit-musi-beta",
+  "nombre": "Aerobit Music",
+  "creador": "Aerobit",
+  "version": "0.5.3.0",
+  "categoria": "Music and Audio",
+  "fecha_lanzamiento": "2026-11-06",
+  "tamano": "2.05 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Aerobit Music is an alternative to the now dead Xbox Music and has many features like listening to no copyright music, listen to Jamendo Music, Radio Browser, no ads, download music for free and so much more. This app is still in it's beta phase so there will be bugs and crashes in the app so it is not complete.",
+  "url_descarga": "https://apps.hienob.ir/dl.php?id=15g0eD9PDvhE4XXSRRTqzsWy0-ed0Uyzv&name=aerobit-music-beta.appx"
+}

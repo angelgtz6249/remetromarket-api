@@ -1,0 +1,14 @@
+{
+  "id": "winjs-1",
+  "nombre": "WinJS 1.0",
+  "creador": "Microsoft Corporation",
+  "version": "1.0.9200.20789",
+  "categoria": "Dependency",
+  "fecha_lanzamiento": "2026-11-05",
+  "tamano": "849.4 KB",
+  "so_requerido": "Windows 8",
+  "clasificacion_esrb": "E",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Dependency for Javascript in Windows 8",
+  "url_descarga": "https://appxbox.dankassassin368.com/download/1BiVq14t1OMDGsS1GXz5wM5NB6COUxi7r/Microsoft.WinJS.1.0_1.0.9200.20789_neutral__8wekyb3d8bbwe.Appx"
+}

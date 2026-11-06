@@ -1,0 +1,14 @@
+{
+  "id": "vclibs-110-x64",
+  "nombre": "VCLibs 11.0 (x64)",
+  "creador": "Microsoft Corporation",
+  "version": "11.0.51106.1",
+  "categoria": "Dependency",
+  "fecha_lanzamiento": "2026-11-05",
+  "tamano": "939.2 KB",
+  "so_requerido": "Windows 8",
+  "clasificacion_esrb": "E",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Dependency for C++ in Windows 8",
+  "url_descarga": "https://appxbox.dankassassin368.com/download/11PUPp1mR5MhpI2w5qMbGd5aipGKei5-a/Microsoft.VCLibs.110.00_11.0.51106.1_x64__8wekyb3d8bbwe.Appx"
+}

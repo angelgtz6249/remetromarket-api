@@ -1,0 +1,14 @@
+{
+  "id": "wp-central",
+  "nombre": "Windows Central",
+  "creador": "WPCentral",
+  "version": "1.3.1.2",
+  "categoria": "News and Weather",
+  "fecha_lanzamiento": "2026-10-31",
+  "tamano": "1.0 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "M",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Patched with NewRetiled (Credits to migbruluz)",
+  "url_descarga": "https://dl.retiled.xyz/Apptravaganza%21/Multi%20patched%20apps/Windows%20Central/Neutral/WPCentral.Win8_1.3.1.2_AnyCPU.appx"
+}

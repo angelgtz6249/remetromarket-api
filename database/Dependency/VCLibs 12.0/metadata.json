@@ -1,0 +1,14 @@
+{
+  "id": "vclibs-120",
+  "nombre": "VCLibs 12.0",
+  "creador": "Microsoft Corporation",
+  "version": "12.0.21005.1",
+  "categoria": "Dependency",
+  "fecha_lanzamiento": "2026-11-05",
+  "tamano": "879.3 KB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "E",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Dependency for C++ in Windows 8.1",
+  "url_descarga": "https://appxbox.dankassassin368.com/download/1wDiphn7tNqxtn5wg1CK90cx2_BCy_OKO/Microsoft.VCLibs.120.00_12.0.21005.1_x86__8wekyb3d8bbwe.Appx"
+}

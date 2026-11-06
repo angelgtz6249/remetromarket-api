@@ -1,0 +1,14 @@
+{
+  "id": "playready-2-x64",
+  "nombre": "PlayReady (x64)",
+  "creador": "Microsoft Corporation",
+  "version": "2.11.2154.0",
+  "categoria": "Dependency",
+  "fecha_lanzamiento": "2026-11-05",
+  "tamano": "1.8 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "E",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Dependency for movies in Windows 8.1",
+  "url_descarga": "https://appxbox.dankassassin368.com/download/172yewOzFRBVBxG0hYd4qA1G2MVWx1bIi/Microsoft.Media.PlayReadyClient.2_2.11.2154.0_x64__8wekyb3d8bbwe.Appx"
+}

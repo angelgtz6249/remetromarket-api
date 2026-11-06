@@ -1,0 +1,14 @@
+{
+  "id": "tunein",
+  "nombre": "TuneIn",
+  "creador": "TuneIn",
+  "version": "1.0.0.18889",
+  "categoria": "Music and Audio",
+  "fecha_lanzamiento": "2026-11-06",
+  "tamano": "20 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "TuneIn Radio is a new way to listen to music, sports, and news from every corner of the earth, with over 60,000 radio stations and 2 million on-demand programs.",
+  "url_descarga": "https://dl.retiled.xyz/Apptravaganza%21/TunedIn%20v1.0.0.18889%20%28with%20tunein%20beta%20assets%29/TuneIN%20v1.0.0.18889%20%28Tunein%20Beta%20UWP%20reskin%29.appx"
+}

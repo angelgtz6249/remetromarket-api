@@ -1,0 +1,14 @@
+{
+  "id": "nokia-music",
+  "nombre": "MixRadio",
+  "creador": "Nokia Corporation",
+  "version": "2015.121.1258.5497",
+  "categoria": "Music and Audio",
+  "fecha_lanzamiento": "2026-11-06",
+  "tamano": "9.10 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "MixRadio for Windows 8 is a complete playback and discovery experience for MixRadio+ subscribers and Lumia tablet owners. MixRadio is your own personal radio station. It will learn your taste in music and give you just the right songs at just the right time. Fancy something a bit diferent? Choose from hundreds of hand-crafted Mixes (playlists of songs curated by our Mix Masters) or create your own simply by telling us a few of your favorite artists",
+  "url_descarga": "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps-2/main/NokiaCorporation.NokiaMusic_2015.121.1258.5497_neutral___6d0q6r3z979nw_1783209028129.appxbundle"
+}

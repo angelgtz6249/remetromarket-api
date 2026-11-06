@@ -1,0 +1,14 @@
+{
+  "id": "rewindowsmusic",
+  "nombre": "ReWindowsMusic",
+  "creador": "ReOpenGlebsur",
+  "version": "1.0.0.1",
+  "categoria": "Music and Audio",
+  "fecha_lanzamiento": "2026-11-06",
+  "tamano": "2.9 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Music on ReWindowsMusic are easy",
+  "url_descarga": "https://appxbox.dankassassin368.com/download/1Vy9X00tkcC5SXcVwplygLLttF-x4WsDX/ReWinMusIc_1.0.0.1_AnyCPU_Debug.appx"
+}
