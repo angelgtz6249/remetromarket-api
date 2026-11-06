@@ -1,0 +1,14 @@
+{
+  "id": "winjs-2-preview",
+  "nombre": "WinJS 2.0 (Preview)",
+  "creador": "Microsoft Corporation",
+  "version": "1.0.9431.0",
+  "categoria": "Dependency",
+  "fecha_lanzamiento": "2026-11-05",
+  "tamano": "1.1 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "E",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Dependency for Javascript in Windows 8.1",
+  "url_descarga": "https://appxbox.dankassassin368.com/download/1ZU9KgYl931e6tGbBKtU6O6yhsEQgWqrt/Microsoft.WinJS.2.0.Preview_1.0.9431.0_neutral__8wekyb3d8bbwe.Appx"
+}
