@@ -1,0 +1,14 @@
+{
+  "id": "fresh-paint-arm32",
+  "nombre": "Fresh Paint (ARM)",
+  "creador": "Microsoft Corporation",
+  "version": "2.0.15133.0",
+  "categoria": "Utilities",
+  "fecha_lanzamiento": "2026-11-06",
+  "tamano": "102 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "E",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Unleash your inner creative with Fresh Paint – the ultimate canvas for your big ideas.",
+  "url_descarga": "https://dl.retiled.xyz/Apptravaganza%21/Fresh%20Paint%20%28now%20with%20a%20working%20Inspire%20Me%20section%29/ARM/Microsoft.FreshPaint_2.0.15133.0_arm__8wekyb3d8bbwe.appx"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "google-arm32",
+  "nombre": "Google (ARM)",
+  "creador": "Google LLC",
+  "version": "1.2.1.12",
+  "categoria": "Utilities",
+  "fecha_lanzamiento": "2026-11-05",
+  "tamano": "3.3 MB",
+  "so_requerido": "Windows 8",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "The world’s information at your fingertips. A familiar, fast, and precise way to find answers on your Windows 8 device.",
+  "url_descarga": "https://appxbox.dankassassin368.com/download/1QvM6cbI6Zcbd57bAYSbPFiUNGNjhe1hy/GoogleInc.GoogleSearch_1.2.1.12_arm__yfg5n0ztvskxp.appx"
+}
