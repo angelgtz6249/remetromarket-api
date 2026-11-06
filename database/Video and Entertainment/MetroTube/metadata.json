@@ -1,0 +1,14 @@
+{
+  "id": "metrotube",
+  "nombre": "Metrotube",
+  "creador": "LazyWorm Apps",
+  "version": "6.2.0.0",
+  "categoria": "Video and Entertainment",
+  "fecha_lanzamiento": "2026-10-31",
+  "tamano": "1.12 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Patched with NewRetiled (Credits to migbruluz)",
+  "url_descarga": "https://dl.retiled.xyz/Apptravaganza%21/Metrotube%20Patched%20Beta%20%28all%20beta%20builds%20are%20in%20here%29/Beta%206.2/Metrotube%20Patched%20Desktop%20Beta%206.2.appx"
+}
