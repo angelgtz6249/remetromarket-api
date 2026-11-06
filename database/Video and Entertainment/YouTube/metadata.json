@@ -1,0 +1,14 @@
+{
+  "id": "youtube",
+  "nombre": "YouTube",
+  "creador": "Google LLC",
+  "version": "1.1.0.0",
+  "categoria": "Video and Entertainment",
+  "fecha_lanzamiento": "2026-10-31",
+  "tamano": "0.41 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Get the YouTube app on Windows 8.1. See what the world is watching -- from the hottest music videos to what's popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any Windows 8.1 device",
+  "url_descarga": "https://apps.hienob.ir/dl.php?id=1qE5SjCm4Oo_3qN759in6zW0jrFC28H0p&name=youtube.appx"
+}

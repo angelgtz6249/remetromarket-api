@@ -1,0 +1,14 @@
+{
+  "id": "klicker",
+  "nombre": "Klicker",
+  "creador": "Angel Gtz",
+  "version": "1.0.0",
+  "categoria": "Games",
+  "fecha_lanzamiento": "2026-10-31",
+  "tamano": "0.21 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "E",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Klicker is a very engaging clicker game.",
+  "url_descarga": "https://apps.hienob.ir/dl.php?id=17pWbDyisirM_jBduspKRNGuilaQQj3c6&name=klicker.appx"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "angry-birds",
+  "nombre": "Angry Birds",
+  "creador": "Rovio Mobile Entertainment",
+  "version": "1.0.0",
+  "categoria": "Games",
+  "fecha_lanzamiento": "2026-10-31",
+  "tamano": "21.15 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "E",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Angry Birds by Rovio. The survival of the Angry Birds is at stake. Dish out revenge on the green pigs who stole the Birds’ eggs. Use the unique destructive powers of the Angry Birds to lay waste to the pigs’ fortified constructions. Angry Birds features hours challenging, physics-based demolition gameplay, and lots of replay value. Each of the 225 levels requires logic, skill, and brute force to crush the enemy. Protect wildlife and play Angry Birds!",
+  "url_descarga": "https://apps.hienob.ir/dl.php?id=1AOcKrL6CnLfMc9G-pdu9I0o-ht_06RCt&name=angry-birds-877.appx"
+}

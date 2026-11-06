@@ -1,0 +1,14 @@
+{
+  "id": "zune-video",
+  "nombre": "Xbox Video",
+  "creador": "Microsoft Corporation",
+  "version": "1.1.0.0",
+  "categoria": "Video and Entertainment",
+  "fecha_lanzamiento": "2026-10-31",
+  "tamano": "32.74 MB",
+  "so_requerido": "Windows 8.1",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Xbox Video brings you the latest HD movies and TV shows on your Windows 8/Windows RT device and makes it easy to watch what you love wherever you are. Rent and buy new blockbuster movies and favorite classics, or catch up on last night's episodes of the hottest TV shows. Xbox Video also brings you instant-on HD to get you watching right away. Plus, explore your video collection and play your own videos. To see which features are available in your region, go to the Xbox Video feature list at http://support.xbox.com/apps/windows-8/xbox-on-windows-features.",
+  "url_descarga": "https://apps.hienob.ir/dl.php?id=1niWOH0XksPEr4ouVyIkPCxQU3qmzeHpR&name=video.appxbundle"
+}

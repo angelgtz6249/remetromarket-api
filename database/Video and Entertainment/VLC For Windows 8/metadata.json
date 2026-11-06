@@ -1,0 +1,14 @@
+{
+  "id": "vlc-for-windows-8",
+  "nombre": "VLC For Windows 8",
+  "creador": "VideoLAN",
+  "version": "2018.802.923.0",
+  "categoria": "Video and Entertainment",
+  "fecha_lanzamiento": "2026-11-05",
+  "tamano": "41.4 MB",
+  "so_requerido": "Windows 8",
+  "clasificacion_esrb": "T",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "Patched with NewRetiled (Credits to migbruluz)",
+  "url_descarga": "https://appxbox.dankassassin368.com/download/1XTF0-4ZPp6c-UhnTrfdzZyTGQDbIDzWO/VideoLAN.VLCforWindows8_2018.802.923.0_neutral_~_paz6r1rewnh0a.appxbundle"
+}
