@@ -1,0 +1,14 @@
+{
+  "id": "windows-11-update",
+  "nombre": "Windows 11 Update",
+  "creador": "Microsoft Corporation",
+  "version": "26H2",
+  "categoria": "Windows Update",
+  "fecha_lanzamiento": "2026-11-06",
+  "tamano": "8.43 GB",
+  "so_requerido": "Windows 7",
+  "clasificacion_esrb": "E",
+  "capacidades": ["internetClient", "musicLibrary"],
+  "descripcion": "To get the latest Windows updates, upgrade to Windows 11 now for free.",
+  "url_descarga": "https://www.microsoft.com/en-us/software-download/windows11"
+}
